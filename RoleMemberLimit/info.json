@@ -1,0 +1,21 @@
+{
+    "author" : [
+        "Khapra"
+    ],
+    "description" : "Enforce a limit on the maximum number of users a role can be assigned to.",
+    "disabled" : false,
+    "end_user_data_statement" : "This cog stores the limits configured by users.",
+    "hidden" : false,
+    "install_msg" : "This cog will enforce a limit on the maximum number of users a role can be assigned to. `[p]setrolelimit` to add an limit.",
+    "max_bot_version" : "0.0.1",
+
+    "name" : "RoleMemberLimit",
+    "permissions" : [
+        "administrator"
+    ],
+    "required_cogs" : {},
+    "requirements" : [],
+    "short" : "Enforce a limit on the maximum number of users per role.",
+    "tags" : [],
+    "type" : "COG"
+}
