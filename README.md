@@ -4,7 +4,7 @@
 >**RoleMemberLimit**: Enforce a limit on the maximum number of users a role can be assigned to.
 
 # Installation
-!install rolememberlimit
+!install <cog>
 
 # Contact
 Please check main Github for more info.
