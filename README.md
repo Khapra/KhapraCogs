@@ -8,6 +8,3 @@
 
 # Contact
 Please check main Github for more info.
-
-# Credits
-Chat-GPT, Flare and ?
