@@ -8,3 +8,6 @@
 
 # Contact
 Please check main Github for more info.
+
+# Credits
+>RoleMemberList : Chat-GPT, Flare and ?
