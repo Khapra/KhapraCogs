@@ -7,7 +7,7 @@
 [p]install [cog]
 
 # Contact
-Please check main Github for more info.
+Please create an issue under the repo.
 
 # Credits
 >RoleMemberList : Chat-GPT, Flare and ?
