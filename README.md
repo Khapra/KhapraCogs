@@ -10,4 +10,4 @@
 Please create an issue under the repo.
 
 # Credits
->RoleMemberList : Chat-GPT, Flare and ?
+>RoleMemberList : Chat-GPT, Flare, Sparkow and Kownlin
