@@ -1,7 +1,7 @@
 {
     "author" : ["Khapra"],
-    "install_msg" : "Thanks for checking out my cogs!\nFor issues, bugs, suggestions, or more information on my cogs go to my github here: <https://github.com/Khapra/Cogs>",
-    "name" : "Khapra-cogs",
+    "install_msg" : "Thanks for checking out my cogs!\nFor issues, bugs, suggestions, or more information on my cogs go to my github here: <https://github.com/Khapra/Khapra-Cogs>",
+    "name" : "Khapra-Cogs",
     "short" : "Cogs by Khapra.",
     "description" : "Useful commands and functions for your bot.",
     "tags" : ["Utility"]
