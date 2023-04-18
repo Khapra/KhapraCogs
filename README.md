@@ -1,5 +1,5 @@
 # Khapra-Cogs
-****Cogs for Red Discord Bot****
+****Cogs for Red Discord Bot V3****
 
 >**RoleMemberLimit**: Enforce a limit on the maximum number of users a role can be assigned to. Can also be used to make exclusive roles according to first come first serve basis.
 
