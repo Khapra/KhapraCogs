@@ -3,16 +3,15 @@
     "displayName": "Role Member Limit",
     "short": "Member limits per role",
     "description": "A cog for limiting the maximum number of members per role in a server.",
-    "author": "Khapra",
+    "author": ["Khapra"],
     "version": "0.0.4",
     "required_cogs": [],
     "required": [],
     "optional": {},
     "hidden": false,
-    "type": "utility",
     "install_msg": "Thank you for installing RoleMemberLimit!",
     "source": "https://github.com/Khapra/Khapra-Cogs/RoleMemberLimit",
-    "tags": ["role", "limit", "member"],
+    "tags": ["role", "limit", "member", "utility"],
     "permissions" : ["administrator"],
-    "end_user_data_statement__" : "This cog collects and stores information about the maximum number of members allowed in specific roles on this server. The information collected by this cog is used to enforce the maximum number of members in each role and notify members who are removed from roles due to exceeding the limit. This cog may collect and store personal information such as Discord user IDs in order to enforce role limits.The data collected by this cog is stored securely and is only accessible to authorized users with administrative permissions. Users have the right to request access to their personal data, request correction or deletion of their data, and withdraw their consent for data collection at any time. By using this cog, users consent to the collection and storage of their data as described in this statement."
+    "end_user_data_statement" : "This cog collects and stores information about the maximum number of members allowed in specific roles on this server. The information collected by this cog is used to enforce the maximum number of members in each role and notify members who are removed from roles due to exceeding the limit. This cog may collect and store personal information such as Discord user IDs in order to enforce role limits.The data collected by this cog is stored securely and is only accessible to authorized users with administrative permissions. Users have the right to request access to their personal data, request correction or deletion of their data, and withdraw their consent for data collection at any time. By using this cog, users consent to the collection and storage of their data as described in this statement."
 }
