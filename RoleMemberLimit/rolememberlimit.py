@@ -64,4 +64,4 @@ class RoleMemberLimit(commands.Cog):
 
 
 def setup(bot):
-    bot.add_cog(RoleMemberLimit(bot))
+   await bot.add_cog(RoleMemberLimit(bot))
