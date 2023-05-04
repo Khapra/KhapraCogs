@@ -3,7 +3,7 @@
     "short": "Member limits per role",
     "description": "A cog for limiting the maximum number of members per role in a server.",
     "author": ["Khapra"],
-    "version": "0.0.4",
+    "version": "0.0.5",
     "required_cogs": [],
     "hidden": false,
     "install_msg": "Thank you for installing RoleMemberLimit!",
