@@ -8,7 +8,7 @@ class RoleMemberLimit(commands.Cog):
     """
 
     __author__ = ["Khapra"]
-    __version__ = "0.0.4"
+    __version__ = "0.0.5"
 
     def __init__(self, bot):
         self.bot = bot
