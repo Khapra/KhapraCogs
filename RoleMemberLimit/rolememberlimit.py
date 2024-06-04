@@ -61,7 +61,3 @@ class RoleMemberLimit(commands.Cog):
             if str(role.id) in role_limits and len(role.members) > role_limits[str(role.id)]:
                 await after.remove_roles(role)
                 await after.send(f"You have been removed from the {role.name} role because the maximum limit of {role_limits[str(role.id)]} members has been reached.")
-
-
-def setup(bot):
-   await bot.add_cog(RoleMemberLimit(bot))
